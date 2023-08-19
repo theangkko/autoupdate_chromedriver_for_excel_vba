@@ -1,0 +1,1 @@
+pyinstaller -F -c -n "Autoupdate_chromedriver_for_vba" -i icon.ico --exclude tkinter main.py
