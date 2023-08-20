@@ -1,8 +1,9 @@
 # autoupdate_chromedriver_for_excel_vba
 
 This tools is to download latest chromedriver from ChromeDriver Site(https://googlechromelabs.github.io/chrome-for-testing/)    
-And to save "chromedriver.exe" at the seleniumbasic folder {%localappdata%/SeleniumBasic}
+And to save "chromedriver.exe" at the seleniumbasic folder {**%localappdata%/SeleniumBasic**}
 
+<br><br>
 
 - original source is "chromedriver_autoinstaller" python library
 - add & modify
